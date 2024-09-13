@@ -1,12 +1,10 @@
-# WooCommerce Sample Data
+# WooCommerce For Testing
 
-WooCommerce comes with a limited number of sample products. I spent a while searching for a larger data set and came across this one: https://glover.us/blog/woocommerce-sample-data-set/
+## How to use
 
-After importing the data via **Products** > **Import**, I was satisfied with the results. 
+https://docs.google.com/document/d/11sF7vFK29xBMKH66S_68Xfa6wLkm8X4vDfxON-YTb04/edit?usp=sharing
 
-This repo aims to enhance the discoverability of this sample data, and open it up for contributions.
-
-## How to Use
+## How to import sample data
 
 1. Download the `woocommerce-sample-data.csv` file.
 2. Naviagte to **Products** > **Import**.
